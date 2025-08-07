@@ -1,0 +1,45 @@
+## Ignore build results
+[Bb]in/
+[Oo]bj/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Mono Auto Generated Files
+mono_crash.*
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Folder config file
+Desktop.ini
+
+## VS Code
+.vscode/
+
+## Visual Studio
+.vs/
+
+## NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+*.nuspec
+*.psmdcp
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Others
+*.log
+*.tmp
+*.bak
+
+# JetBrains Rider
+.idea/
+*.sln.iml
